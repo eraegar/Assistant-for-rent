@@ -49,14 +49,15 @@ Informal Zoom interview, conducted with all team members present. The customer a
 4. Which AI features are considered helpful and which are essential?    
 
 **User Interface in Telegram:**
-5. What are the core commands and interface elements needed in the Telegram Mini App?   
+5. What are the core commands and interface elements needed in the Telegram Bot?   
 6. Should users communicate directly with the assistant or through structured forms?  
 
 **Business Logic and Pricing:**
 7. What will be the pricing model? What subscription tiers do you envision?  
 8. Is flexible pricing based on task type or time possible?    
 9. What marketing channels and conversion funnels are planned?   
-
+> [!note] Change of Assumption
+> These questions were originally framed under the assumption of having a separate bot and standalone mobile application. During the interview, it became clear that the customer prefers a **Telegram Mini App** that integrates all functionality inside Telegram.
 ### Notes on Improvements (based on *The Mom Test* principles)
 - Questions were reworded to avoid assumptions or praise-seeking.
 - Focus shifted from features to real-world context.
@@ -107,9 +108,8 @@ See the full transcript [here](https://docs.google.com/document/d/1qo8wzwZ_IPZ6j
 
 ### 2. MVP Feature Planning
 **MVP v1**
-- Telegram Mini App with task submission UI  
-- Templates, pricing plans, status updates  
-- Assistant assignment logic
+- Telegram bot: initial contact, basic FAQ, reminders, and transition to Mini App.
+- Telegram Mini App: task submission UI, ready-made templates, pricing plans, task tracking
 **MVP v2**
 - User profiles, analytics dashboard  
 - Inspiration gallery  
