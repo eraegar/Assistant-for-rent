@@ -9,11 +9,24 @@
 - **Maxim Shakrai** — Developer  
 
 ## Task Distribution (This Week)
-- Interview — Martin  
-- Transcript — Ilya  
-- Analysis — Daniil, Maxim  
-- Table — Egor  
-- Report compilation — Roman  
+
+- **Martin Klimov — Interview**  
+  Led the customer interview and ensured all key topics were covered clearly and efficiently.
+
+- **Ilya Pushkarev — Transcript**  
+  Transcribed the interview recording and structured it for clarity and usability.
+
+- **Daniil Agafonov — Analysis**  
+  Analyzed the interview results and contributed to MVP feature planning and competitor review.
+
+- **Maxim Shakrai — Analysis**  
+  Supported analysis efforts and helped extract actionable insights from user needs.
+
+- **Egor Parubchishin — Table & Mapping**  
+  Created the qualitative analysis table mapping client needs to Mini App features.
+
+- **Roman Ivanov — Report & Coordination**  
+  Compiled the final report, managed team coordination, and reviewed all contributions.
 
 ---
 
@@ -60,7 +73,7 @@ See the full transcript [here](https://docs.google.com/document/d/1qo8wzwZ_IPZ6j
 ## 4. Links
 
 - **Sample bot:** `@legkochat_bot`  
-- **Product research board:** [Drive link](https://drive.google.com/drive/folders/1IVy22GisWW3bDCHYueMPDaXrQ4NGXAxs?usp=sharing)  
+- **Product research board:** [Drive link](https://miro.com/welcomeonboard/RDFJNjBvVW1lZzdEdEhjOGJvcUwvQWt1VUNKY2wyTDBjeEg0UVYrNWoxMTRBcGQvRDNLYktqVm5jSFk1VklCanJsRSs3K0N4bGkwU2p5eTlqcDF6eURKVlREVkRKQTNRV2hZQ1MrRCt0ZHcvL1RwKytucnhMSWtVU1NWYStxak1zVXVvMm53MW9OWFg5bkJoVXZxdFhRPT0hdjE=?share_link_id=29488487627)
 - **Interview recording:** [Watch here](https://drive.google.com/file/d/1dwyYiJwaDvAvSftRSAYGC7BpFgboXM-z/view?usp=sharing)  
 - **Task files:** [Drive folder](https://drive.google.com/drive/folders/1-lRkUX0sPWL469gG_kPdD2MjCSmifbSO?usp=sharing)  
 
@@ -81,7 +94,7 @@ See the full transcript [here](https://docs.google.com/document/d/1qo8wzwZ_IPZ6j
 
 ---
 
-## 6. One-Page Report
+## 6. Report
 
 ### 1. Key Insights from the Interview
 - **Customer Goals:** Help busy entrepreneurs delegate tasks within Telegram.
